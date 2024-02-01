@@ -1,2 +1,5 @@
 .config/helix/runtime
+
 .config/tmux/plugins
+
+.config/lazygit/state.yml
