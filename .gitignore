@@ -6,3 +6,6 @@
 
 # lazygit
 .config/lazygit/state.yml
+
+#nnn
+.config/nnn/.selection
